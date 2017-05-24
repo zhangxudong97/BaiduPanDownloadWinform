@@ -24,7 +24,7 @@ namespace BaiduPanDownload.Forms
             }
             catch (Exception ex)
             {
-                MessageBox.Show("调用浏览器失败! " + ex.Message);
+                MessageBox.Show("调用浏览器11失败! " + ex.Message);
             }
         }
     }
